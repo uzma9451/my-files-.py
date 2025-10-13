@@ -1,0 +1,10 @@
+a=100
+b=50
+c=a+b
+d=a-b
+e=a*b
+f=a/b
+g=a%b
+h=a**b
+i=a//b
+print(c,"/n",d,"/n",e,"/n",f,"/n",g,"/n",h,"/n",i)

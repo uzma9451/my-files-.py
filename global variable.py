@@ -1,0 +1,16 @@
+a=100
+b=20
+c=a+b
+print("Add=",c)
+c=a-b
+print("Sub=",c)
+c=a*b
+print("multi=",c)
+c=a/b
+print("Div=",c)
+c=a%b
+print("Mod=",c)
+c=a**b
+print("Expo=",c)
+c=a//b
+print("Floor div=",c)
