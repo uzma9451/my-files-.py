@@ -1,0 +1,25 @@
+print("hello,world!")
+
+#
+#find the type of variable
+a=10
+d=(type(a))
+print(d)
+
+
+a=int(input("enter the number=",))
+b=int(input("enter the number=",))
+c=int(input("enter the number=",))
+d= (a > b and a > c)
+print(d)
+d1 = (b>a and b>c)
+print(d1)
+
+
+
+
+
+
+
+
+
