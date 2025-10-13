@@ -1,0 +1,7 @@
+nMYNAME=1
+MYNAME=2
+map=3
+MYNAME1=4
+MY_NAME=5
+_MYNAME=6
+print(nMYNAME,"/n",MYNAME,"/n",map,"/n",MYNAME1,"/n",MY_NAME,"/n",_MYNAME)
