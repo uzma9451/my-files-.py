@@ -1,4 +1,5 @@
-n=int(input("enter the num="))
-
-for i in range( 2,10):
-    print()
+n=int(input("enter the value for n="))
+a=1
+for i in range (n,0,-1):
+     a=a*i
+print(a)
